@@ -9,6 +9,7 @@ In order to run the program there are:
 2) Release the ZIP folder
 3) Go to the "EXE" folder
 4) Run the setup file
+## must have all the files in the "EXE" folder together (download the entire folder) in oreder to run successfully
 
 
 Users:
