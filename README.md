@@ -27,4 +27,6 @@ Coral123
 
 
 Link to an explanatory: https://youtu.be/zUIMjmUAQaQ
+Link to executable file: https://github.com/Aymanw1998/DogForLife/tree/main/Exe  (name: setup.exe)
+Link to source files: https://github.com/Aymanw1998/DogForLife/tree/main/src
 
