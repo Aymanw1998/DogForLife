@@ -12,20 +12,23 @@ In order to run the program there are:
 - must have all the files in the "EXE" folder together (download the entire folder) in oreder to run successfully
 
 
-#Users (for Login):
+# Users (for Login):
 
 1)admin
+
 Username: 213445246
 Pass: ayman123
 
 
 2)Worker:
+
 username: 213485246
-pass: sapir123
+Pass: sapir123
 
 3)Owner
+
 username: 209138155
-Coral123
+Pass: coral123
 
 
 Link to an explanatory: https://youtu.be/zUIMjmUAQaQ
