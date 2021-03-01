@@ -9,16 +9,17 @@ In order to run the program there are:
 2) Release the ZIP folder
 3) Go to the "EXE" folder
 4) Run the setup file
-## must have all the files in the "EXE" folder together (download the entire folder) in oreder to run successfully
+- must have all the files in the "EXE" folder together (download the entire folder) in oreder to run successfully
 
 
-Users:
+#Users (for Login):
+
 1)admin
 Username: 213445246
 Pass: ayman123
 
 
-2)Worker
+2)Worker:
 username: 213485246
 pass: sapir123
 
